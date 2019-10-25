@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D side scroller GDD1",
+"dataUrl": "jao.data.unityweb",
+"wasmCodeUrl": "jao.wasm.code.unityweb",
+"wasmFrameworkUrl": "jao.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
